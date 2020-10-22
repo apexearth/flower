@@ -1,0 +1,13 @@
+﻿{
+  "name": "Treescape",
+  "description": "An ambient treescape.",
+  "version": "0.0.0.3",
+  "icons": {
+    "128": "icon-128.png"
+  },
+  "app": {
+    "launch": {
+      "web_url": "http://apexearth.info/treescape"
+    }
+  }
+}
